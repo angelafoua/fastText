@@ -1,0 +1,73 @@
+WORD VARIATION TAXONOMY
+
+1.  Character-Level Variations
+
+-   Insertion (frank → franak)
+-   Deletion (frank → fran)
+-   Substitution (frank → fronk)
+-   Transposition (frank → frnak)
+-   Repetition / Duplication (cat → caat)
+-   Truncation (running → run)
+
+2.  Phonetic Variations
+
+-   Phoneme substitution (phone → fone, cat → kat)
+-   Silent letter removal (knight → night)
+-   Vowel shifts (color → coler)
+-   Homophones (to ↔ too ↔ two)
+
+3.  Orthographic Variations
+
+-   Regional spelling (color ↔ colour)
+-   Formal vs informal (going → goin)
+-   Case changes (frank → FRANK)
+-   Punctuation (O’Neil → ONeil)
+
+4.  Morphological Variations
+
+-   Inflection (run → running → ran)
+-   Derivation (teach → teacher)
+-   Stemming (connection → connect)
+-   Affixes (legal → illegal)
+
+5.  Abbreviation & Expansion
+
+-   Abbreviations (street → st)
+-   Acronyms (NASA)
+-   Shortened forms (alexander → alex)
+
+6.  Keyboard / Typo Variations
+
+-   Adjacent key errors (cat → vat)
+-   Missed keystrokes (frank → fran)
+-   Double key press (cat → caat)
+-   Wrong key order (form → from)
+
+7.  Token-Level Variations
+
+-   Word splitting (notebook → note book)
+-   Word merging (note book → notebook)
+-   Reordering (new york → york new)
+
+8.  Semantic-like Variations
+
+-   Synonyms (quick → fast)
+
+9.  Noise Injection
+
+-   Random noise (frank → f9ank)
+-   Number substitution (for → 4)
+
+10. Unicode / Encoding
+
+-   Accents (cafe → café)
+-   Lookalikes (o → 0)
+
+11. N-gram Variations
+
+-   Substrings (frank → fra, ran, ank)
+-   Overlapping fragments (running → runn, unni, nnin)
+
+12. Hybrid Variations
+
+-   Combination of multiple transformations (frank → frnak → franak)
